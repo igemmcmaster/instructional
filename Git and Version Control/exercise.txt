@@ -1,0 +1,11 @@
+1. Clone or fetch the repository
+2. Checkout your branch
+3. Delete your branch on local and remote
+4. Create a new branch named "<your name>1"
+5. Checkout the new branch
+6. Add your name to the following list:
+Adam Yu
+7. Stage your changes
+8. Commit your changes
+9. Push your changes
+10. Create a pull request and add me as a reviewer
