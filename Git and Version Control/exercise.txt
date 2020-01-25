@@ -6,6 +6,7 @@
 6. Add your name to the following list:
 Adam Yu
 Frank Chen
+Fahad Butt
 7. Stage your changes
 8. Commit your changes
 9. Push your changes
