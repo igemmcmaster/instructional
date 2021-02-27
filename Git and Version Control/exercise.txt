@@ -4,10 +4,8 @@
 4. Create a new branch named "<your name>1"
 5. Checkout the new branch
 6. Add your name to the following list:
-Adam Yu
-Frank Chen
-Fahad Butt
-Vincent Wang
+Frank
+Vincent
 7. Stage your changes
 8. Commit your changes
 9. Push your changes
