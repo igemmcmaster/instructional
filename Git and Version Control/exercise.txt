@@ -6,6 +6,7 @@
 6. Add your name to the following list:
 Frank
 Vincent
+Lila
 Yifan
 Ahmed
 7. Stage your changes
