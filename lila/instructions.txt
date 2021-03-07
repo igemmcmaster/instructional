@@ -1,1 +1,0 @@
-Post your DMOJ solutions as files in this folder!
